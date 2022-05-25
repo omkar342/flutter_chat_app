@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335061427715",
+    "project_id": "fire-base-ed9fb",
+    "storage_bucket": "fire-base-ed9fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335061427715:android:7f6b2b3005de86e1e1d036",
+        "android_client_info": {
+          "package_name": "com.omkar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335061427715-984ncsjgrlb6fb7majg3fapu64m4fbn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6tQyckFv1eqEg3Ppr6srmfOUbxx0e874"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335061427715-984ncsjgrlb6fb7majg3fapu64m4fbn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
